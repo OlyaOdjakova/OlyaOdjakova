@@ -1,10 +1,12 @@
 ## Heyy! 👋
 
-✨ I’m currently working on building multiple projects ✨
+I’m currently working on building multiple projects :hourglass: 
+
+***
 
 ### 💻 My tech stack 
 
-#### 🌓 Frameworks, Libraries & Testing
+#### Frameworks, Libraries & Testing
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,7 +33,7 @@
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 
 
-#### 🌗 Databases, ORM, Design, Documentation & Deployment
+#### Databases, ORM, Design, Documentation & Deployment
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
