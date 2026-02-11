@@ -1,6 +1,6 @@
 ## Heyy! 👋
 
-✨ I’m a full-stack dev currently working on building multiple projects ✨
+✨ I’m currently working on building multiple projects ✨
 
 ### 💻 My tech stack 
 
