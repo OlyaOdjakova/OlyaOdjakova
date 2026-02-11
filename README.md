@@ -2,7 +2,7 @@
 
 I'm Olya, dev with testing experience and an eye for detail, always ready to learn new skills 🚀
 
-I’m currently working on building multiple projects :hourglass:,  so stay tuned!
+Currently building multiple projects :hourglass:   - stay tuned!
 
 ***
 
