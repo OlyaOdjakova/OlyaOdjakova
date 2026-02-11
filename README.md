@@ -1,6 +1,8 @@
 ## Heyy! 👋
 
-I’m currently working on building multiple projects :hourglass: 
+I'm Olya, dev with testing experience and an eye for detail, always ready to learn new skills 🚀
+
+I’m currently working on building multiple projects :hourglass:,  so stay tuned!
 
 ***
 
