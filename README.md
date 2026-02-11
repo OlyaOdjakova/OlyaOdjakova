@@ -45,8 +45,6 @@ Currently building multiple projects :hourglass:   - stay tuned!
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlyaOdjakova)](https://github.com/OlyaOdjakova/github-readme-stats)
-
 <!--
 **OlyaOdjakova/OlyaOdjakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,electron,jquery,nextjs,pinia,redux,sass,styledcomponents)](https://skillicons.dev)
