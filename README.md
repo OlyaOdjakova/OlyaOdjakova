@@ -1,6 +1,6 @@
 ## Heyy! 👋
 
-I'm Olya, dev with testing experience and an eye for detail, always ready to learn new skills 🚀
+I'm Olya, developer with testing experience and an eye for detail, always ready to learn new skills 🚀
 
 Currently building multiple projects :hourglass:   - stay tuned!
 
